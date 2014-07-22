@@ -1,9 +1,6 @@
 FORMAT: 1A
 HOST: https://api.mywebsite.com
 
-# Knox Payments
-
-
 # Group Android
 
 So you're trying to use Knox as a payment method in your Android app? We've built a sample application for you to look at and help guide you in your Android integration.
